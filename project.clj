@@ -4,4 +4,5 @@
                  [com.jcraft/jsch "0.1.54"]]
   :profiles {:dev {:dependencies [[org.clojure/clojure "1.9.0"]]}}
   :plugins [[lein-marginalia "0.9.1"]]
-  :repositories {"jgit-repository" "https://repo.eclipse.org/content/groups/releases/"})
+  ;;:repositories {"jgit-repository" "https://repo.eclipse.org/content/groups/releases/"}
+  )
